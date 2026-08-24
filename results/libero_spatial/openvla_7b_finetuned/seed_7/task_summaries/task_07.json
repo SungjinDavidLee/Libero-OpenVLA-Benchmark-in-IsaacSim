@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "status": "completed",
+  "task_suite_name": "libero_spatial",
+  "task_id": 7,
+  "instruction": "pick up the black bowl on the stove and place it on the plate",
+  "problem_folder": "libero_spatial",
+  "bddl_file": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate.bddl",
+  "task_name": "pick_up_the_black_bowl_on_the_stove_and_place_it_on_the_plate",
+  "model_family": "openvla",
+  "pretrained_checkpoint": "openvla/openvla-7b-finetuned-libero-spatial",
+  "unnorm_key": "libero_spatial",
+  "seed": 7,
+  "num_trials_requested": 50,
+  "max_steps": 220,
+  "num_steps_wait": 10,
+  "resolution": 256,
+  "center_crop": true,
+  "started_at_utc": "2026-08-24T07:45:25.360425+00:00",
+  "num_trials_completed": 50,
+  "num_successes": 41,
+  "num_failures": 9,
+  "success_rate": 0.82,
+  "mean_policy_steps": 141.52,
+  "failure_reasons": {
+    "timeout": 9,
+    "success": 0
+  },
+  "episodes_csv": "task_07/episodes.csv",
+  "videos_dir": "task_07/videos",
+  "trajectories_dir": "task_07/trajectories",
+  "finished_at_utc": "2026-08-24T08:14:57.896057+00:00"
+}
