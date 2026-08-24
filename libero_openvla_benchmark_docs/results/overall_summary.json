@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "task_suite_name": "libero_spatial",
+  "checkpoint": "openvla/openvla-7b-finetuned-libero-spatial",
+  "unnorm_key": "libero_spatial",
+  "seed": 7,
+  "num_tasks": 10,
+  "num_trials_per_task": 50,
+  "total_trials": 500,
+  "total_successes": 422,
+  "total_failures": 78,
+  "overall_success_rate": 0.844,
+  "failure_reasons": {
+    "timeout": 78
+  },
+  "max_steps": 220,
+  "num_steps_wait": 10,
+  "resolution": 256,
+  "center_crop": true,
+  "official_openvla_reported_success_rate": 0.847,
+  "official_openvla_reported_uncertainty": 0.009,
+  "official_protocol_note": "Official number is reported as an average over three random seeds; current result is one seed.",
+  "difference_from_official_percentage_points": -0.3
+}

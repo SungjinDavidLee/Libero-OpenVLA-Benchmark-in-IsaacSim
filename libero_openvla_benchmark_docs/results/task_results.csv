@@ -1,0 +1,11 @@
+task_id,instruction,num_trials,successes,failures,success_rate,mean_policy_steps,failure_reasons
+0,"pick up the black bowl between the plate and the ramekin and place it on the plate",50,49,1,0.98,85.72,"{""timeout"": 1}"
+1,"pick up the black bowl next to the ramekin and place it on the plate",50,45,5,0.90,125.54,"{""timeout"": 5}"
+2,"pick up the black bowl from table center and place it on the plate",50,42,8,0.84,121.72,"{""timeout"": 8}"
+3,"pick up the black bowl on the cookie box and place it on the plate",50,48,2,0.96,91.36,"{""timeout"": 2}"
+4,"pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate",50,34,16,0.68,156.04,"{""timeout"": 16}"
+5,"pick up the black bowl on the ramekin and place it on the plate",50,44,6,0.88,112.38,"{""timeout"": 6}"
+6,"pick up the black bowl next to the cookie box and place it on the plate",50,44,6,0.88,122.02,"{""timeout"": 6}"
+7,"pick up the black bowl on the stove and place it on the plate",50,41,9,0.82,141.52,"{""timeout"": 9}"
+8,"pick up the black bowl next to the plate and place it on the plate",50,37,13,0.74,129.10,"{""timeout"": 13}"
+9,"pick up the black bowl on the wooden cabinet and place it on the plate",50,38,12,0.76,148.50,"{""timeout"": 12}"

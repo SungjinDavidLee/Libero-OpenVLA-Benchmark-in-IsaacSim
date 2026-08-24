@@ -1,0 +1,153 @@
+[2026-08-24T16:45:25+09:00] Task id: 7
+[2026-08-24T16:45:25+09:00] Instruction: pick up the black bowl on the stove and place it on the plate
+[2026-08-24T16:45:25+09:00] Trials: 50
+[2026-08-24T16:45:27+09:00] Starting episode 000
+[2026-08-24T16:46:21+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_000.mp4
+[2026-08-24T16:46:22+09:00] Episode 000: success=False, reason=timeout, policy_steps=220
+[2026-08-24T16:46:22+09:00] Starting episode 001
+[2026-08-24T16:46:59+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_001.mp4
+[2026-08-24T16:46:59+09:00] Episode 001: success=True, reason=success, policy_steps=147
+[2026-08-24T16:46:59+09:00] Starting episode 002
+[2026-08-24T16:47:32+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_002.mp4
+[2026-08-24T16:47:33+09:00] Episode 002: success=True, reason=success, policy_steps=133
+[2026-08-24T16:47:33+09:00] Starting episode 003
+[2026-08-24T16:48:06+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_003.mp4
+[2026-08-24T16:48:06+09:00] Episode 003: success=True, reason=success, policy_steps=134
+[2026-08-24T16:48:06+09:00] Starting episode 004
+[2026-08-24T16:48:35+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_004.mp4
+[2026-08-24T16:48:35+09:00] Episode 004: success=True, reason=success, policy_steps=113
+[2026-08-24T16:48:35+09:00] Starting episode 005
+[2026-08-24T16:49:04+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_005.mp4
+[2026-08-24T16:49:05+09:00] Episode 005: success=True, reason=success, policy_steps=114
+[2026-08-24T16:49:05+09:00] Starting episode 006
+[2026-08-24T16:49:36+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_006.mp4
+[2026-08-24T16:49:37+09:00] Episode 006: success=True, reason=success, policy_steps=124
+[2026-08-24T16:49:37+09:00] Starting episode 007
+[2026-08-24T16:50:14+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_007.mp4
+[2026-08-24T16:50:15+09:00] Episode 007: success=True, reason=success, policy_steps=141
+[2026-08-24T16:50:15+09:00] Starting episode 008
+[2026-08-24T16:50:48+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_008.mp4
+[2026-08-24T16:50:48+09:00] Episode 008: success=True, reason=success, policy_steps=131
+[2026-08-24T16:50:48+09:00] Starting episode 009
+[2026-08-24T16:51:42+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_009.mp4
+[2026-08-24T16:51:43+09:00] Episode 009: success=False, reason=timeout, policy_steps=220
+[2026-08-24T16:51:43+09:00] Starting episode 010
+[2026-08-24T16:52:37+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_010.mp4
+[2026-08-24T16:52:38+09:00] Episode 010: success=False, reason=timeout, policy_steps=220
+[2026-08-24T16:52:38+09:00] Starting episode 011
+[2026-08-24T16:53:09+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_011.mp4
+[2026-08-24T16:53:10+09:00] Episode 011: success=True, reason=success, policy_steps=123
+[2026-08-24T16:53:10+09:00] Starting episode 012
+[2026-08-24T16:53:43+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_012.mp4
+[2026-08-24T16:53:44+09:00] Episode 012: success=True, reason=success, policy_steps=132
+[2026-08-24T16:53:44+09:00] Starting episode 013
+[2026-08-24T16:54:37+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_013.mp4
+[2026-08-24T16:54:38+09:00] Episode 013: success=False, reason=timeout, policy_steps=220
+[2026-08-24T16:54:38+09:00] Starting episode 014
+[2026-08-24T16:55:05+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_014.mp4
+[2026-08-24T16:55:06+09:00] Episode 014: success=True, reason=success, policy_steps=110
+[2026-08-24T16:55:06+09:00] Starting episode 015
+[2026-08-24T16:55:57+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_015.mp4
+[2026-08-24T16:55:58+09:00] Episode 015: success=False, reason=timeout, policy_steps=220
+[2026-08-24T16:55:58+09:00] Starting episode 016
+[2026-08-24T16:56:27+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_016.mp4
+[2026-08-24T16:56:27+09:00] Episode 016: success=True, reason=success, policy_steps=113
+[2026-08-24T16:56:27+09:00] Starting episode 017
+[2026-08-24T16:57:02+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_017.mp4
+[2026-08-24T16:57:03+09:00] Episode 017: success=True, reason=success, policy_steps=142
+[2026-08-24T16:57:03+09:00] Starting episode 018
+[2026-08-24T16:57:55+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_018.mp4
+[2026-08-24T16:57:56+09:00] Episode 018: success=False, reason=timeout, policy_steps=220
+[2026-08-24T16:57:56+09:00] Starting episode 019
+[2026-08-24T16:58:47+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_019.mp4
+[2026-08-24T16:58:48+09:00] Episode 019: success=False, reason=timeout, policy_steps=220
+[2026-08-24T16:58:48+09:00] Starting episode 020
+[2026-08-24T16:59:17+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_020.mp4
+[2026-08-24T16:59:17+09:00] Episode 020: success=True, reason=success, policy_steps=117
+[2026-08-24T16:59:17+09:00] Starting episode 021
+[2026-08-24T16:59:50+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_021.mp4
+[2026-08-24T16:59:50+09:00] Episode 021: success=True, reason=success, policy_steps=132
+[2026-08-24T16:59:50+09:00] Starting episode 022
+[2026-08-24T17:00:18+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_022.mp4
+[2026-08-24T17:00:19+09:00] Episode 022: success=True, reason=success, policy_steps=113
+[2026-08-24T17:00:19+09:00] Starting episode 023
+[2026-08-24T17:01:11+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_023.mp4
+[2026-08-24T17:01:12+09:00] Episode 023: success=False, reason=timeout, policy_steps=220
+[2026-08-24T17:01:12+09:00] Starting episode 024
+[2026-08-24T17:01:40+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_024.mp4
+[2026-08-24T17:01:40+09:00] Episode 024: success=True, reason=success, policy_steps=114
+[2026-08-24T17:01:40+09:00] Starting episode 025
+[2026-08-24T17:02:11+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_025.mp4
+[2026-08-24T17:02:11+09:00] Episode 025: success=True, reason=success, policy_steps=124
+[2026-08-24T17:02:11+09:00] Starting episode 026
+[2026-08-24T17:02:40+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_026.mp4
+[2026-08-24T17:02:40+09:00] Episode 026: success=True, reason=success, policy_steps=114
+[2026-08-24T17:02:40+09:00] Starting episode 027
+[2026-08-24T17:03:13+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_027.mp4
+[2026-08-24T17:03:14+09:00] Episode 027: success=True, reason=success, policy_steps=135
+[2026-08-24T17:03:14+09:00] Starting episode 028
+[2026-08-24T17:03:48+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_028.mp4
+[2026-08-24T17:03:48+09:00] Episode 028: success=True, reason=success, policy_steps=141
+[2026-08-24T17:03:48+09:00] Starting episode 029
+[2026-08-24T17:04:15+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_029.mp4
+[2026-08-24T17:04:16+09:00] Episode 029: success=True, reason=success, policy_steps=110
+[2026-08-24T17:04:16+09:00] Starting episode 030
+[2026-08-24T17:04:43+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_030.mp4
+[2026-08-24T17:04:44+09:00] Episode 030: success=True, reason=success, policy_steps=111
+[2026-08-24T17:04:44+09:00] Starting episode 031
+[2026-08-24T17:05:14+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_031.mp4
+[2026-08-24T17:05:14+09:00] Episode 031: success=True, reason=success, policy_steps=122
+[2026-08-24T17:05:14+09:00] Starting episode 032
+[2026-08-24T17:05:43+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_032.mp4
+[2026-08-24T17:05:44+09:00] Episode 032: success=True, reason=success, policy_steps=116
+[2026-08-24T17:05:44+09:00] Starting episode 033
+[2026-08-24T17:06:13+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_033.mp4
+[2026-08-24T17:06:14+09:00] Episode 033: success=True, reason=success, policy_steps=121
+[2026-08-24T17:06:14+09:00] Starting episode 034
+[2026-08-24T17:06:49+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_034.mp4
+[2026-08-24T17:06:50+09:00] Episode 034: success=True, reason=success, policy_steps=147
+[2026-08-24T17:06:50+09:00] Starting episode 035
+[2026-08-24T17:07:23+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_035.mp4
+[2026-08-24T17:07:23+09:00] Episode 035: success=True, reason=success, policy_steps=135
+[2026-08-24T17:07:23+09:00] Starting episode 036
+[2026-08-24T17:07:51+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_036.mp4
+[2026-08-24T17:07:51+09:00] Episode 036: success=True, reason=success, policy_steps=110
+[2026-08-24T17:07:51+09:00] Starting episode 037
+[2026-08-24T17:08:22+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_037.mp4
+[2026-08-24T17:08:22+09:00] Episode 037: success=True, reason=success, policy_steps=123
+[2026-08-24T17:08:22+09:00] Starting episode 038
+[2026-08-24T17:08:53+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_038.mp4
+[2026-08-24T17:08:53+09:00] Episode 038: success=True, reason=success, policy_steps=122
+[2026-08-24T17:08:53+09:00] Starting episode 039
+[2026-08-24T17:09:22+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_039.mp4
+[2026-08-24T17:09:23+09:00] Episode 039: success=True, reason=success, policy_steps=114
+[2026-08-24T17:09:23+09:00] Starting episode 040
+[2026-08-24T17:09:52+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_040.mp4
+[2026-08-24T17:09:52+09:00] Episode 040: success=True, reason=success, policy_steps=117
+[2026-08-24T17:09:52+09:00] Starting episode 041
+[2026-08-24T17:10:26+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_041.mp4
+[2026-08-24T17:10:27+09:00] Episode 041: success=True, reason=success, policy_steps=137
+[2026-08-24T17:10:27+09:00] Starting episode 042
+[2026-08-24T17:10:59+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_042.mp4
+[2026-08-24T17:11:00+09:00] Episode 042: success=True, reason=success, policy_steps=132
+[2026-08-24T17:11:00+09:00] Starting episode 043
+[2026-08-24T17:11:29+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_043.mp4
+[2026-08-24T17:11:30+09:00] Episode 043: success=True, reason=success, policy_steps=119
+[2026-08-24T17:11:30+09:00] Starting episode 044
+[2026-08-24T17:12:03+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_044.mp4
+[2026-08-24T17:12:03+09:00] Episode 044: success=True, reason=success, policy_steps=134
+[2026-08-24T17:12:03+09:00] Starting episode 045
+[2026-08-24T17:12:34+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_045.mp4
+[2026-08-24T17:12:35+09:00] Episode 045: success=True, reason=success, policy_steps=125
+[2026-08-24T17:12:35+09:00] Starting episode 046
+[2026-08-24T17:13:04+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_046.mp4
+[2026-08-24T17:13:04+09:00] Episode 046: success=True, reason=success, policy_steps=117
+[2026-08-24T17:13:04+09:00] Starting episode 047
+[2026-08-24T17:13:34+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_047.mp4
+[2026-08-24T17:13:34+09:00] Episode 047: success=True, reason=success, policy_steps=118
+[2026-08-24T17:13:34+09:00] Starting episode 048
+[2026-08-24T17:14:04+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_048.mp4
+[2026-08-24T17:14:04+09:00] Episode 048: success=True, reason=success, policy_steps=119
+[2026-08-24T17:14:04+09:00] Starting episode 049
+[2026-08-24T17:14:56+09:00] Saved video: /home/user/LIBERO/experiments/libero_spatial_benchmark/openvla-7b-finetuned-libero-spatial/seed_7/task_07/videos/episode_049.mp4
+[2026-08-24T17:14:57+09:00] Episode 049: success=False, reason=timeout, policy_steps=220

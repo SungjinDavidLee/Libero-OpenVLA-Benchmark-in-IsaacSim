@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "status": "completed",
+  "task_suite_name": "libero_spatial",
+  "task_id": 0,
+  "instruction": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+  "problem_folder": "libero_spatial",
+  "bddl_file": "pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_plate.bddl",
+  "task_name": "pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_plate",
+  "model_family": "openvla",
+  "pretrained_checkpoint": "openvla/openvla-7b-finetuned-libero-spatial",
+  "unnorm_key": "libero_spatial",
+  "seed": 7,
+  "num_trials_requested": 50,
+  "max_steps": 220,
+  "num_steps_wait": 10,
+  "resolution": 256,
+  "center_crop": true,
+  "started_at_utc": "2026-08-24T04:48:20.935556+00:00",
+  "num_trials_completed": 50,
+  "num_successes": 49,
+  "num_failures": 1,
+  "success_rate": 0.98,
+  "mean_policy_steps": 85.72,
+  "failure_reasons": {
+    "success": 0,
+    "timeout": 1
+  },
+  "episodes_csv": "task_00/episodes.csv",
+  "videos_dir": "task_00/videos",
+  "trajectories_dir": "task_00/trajectories",
+  "finished_at_utc": "2026-08-24T05:08:00.131533+00:00"
+}
