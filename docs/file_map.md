@@ -25,7 +25,7 @@
     └── trajectories/episode_XXX.npz
 ~~~
 
-## 2. 이 문서 묶음 안의 위치
+## 2. 이 문서 안의 위치
 
 ~~~text
 libero_openvla_benchmark_docs/
