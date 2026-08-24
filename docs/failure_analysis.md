@@ -1,7 +1,5 @@
 # Failure analysis: benchmark-only
 
-이 문서는 scene graph, recovery, 추가 controller를 제안하는 문서가 아니다. 현재 baseline이 **어떤 상황에서 실패하는지**를 영상·trajectory·로그로 설명하는 데만 집중한다.
-
 ## 1. 확인된 사실
 
 - 전체 실패는 78회이며, 모두 reason=timeout, policy_steps=220이다.
