@@ -56,14 +56,3 @@ Task 8도 bowl이 plate 옆에 있어 74%지만, destination과 target이 동시
 - **Task 0 — 98%:** 가까운 물체 사이지만 open table 위에서 접근과 lift가 상대적으로 쉽다.
 
 이 순위는 task semantics와 geometry가 함께 바뀌는 단일 benchmark이므로, 원인을 분리한 실험이 아니라 failure-mode prioritization으로 기록한다.
-
-## 5. 보고서에서 말하지 않는 것
-
-이번 결과만으로 다음을 주장하지 않는다.
-
-- DINOv2 또는 SigLIP 중 어느 하나가 단독 원인이다.
-- Grounding DINO/SAM2가 필수다.
-- recovery 또는 scene graph를 추가하면 개선 폭이 얼마다.
-- Task 4의 모든 실패가 동일한 grasp point 문제다.
-
-그런 주장은 동일 initial state를 유지한 intervention study가 필요하다. 현재 보고서의 목적은 baseline failure를 재현 가능하게 분류하는 것이다.
