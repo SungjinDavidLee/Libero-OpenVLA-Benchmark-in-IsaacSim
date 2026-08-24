@@ -41,7 +41,7 @@ flowchart TD
     scripts --> generator["make_figures.py"]
 ~~~
 
-### Git에 두는 것
+### Git
 
 - Markdown: 사람이 읽는 보고서와 아키텍처
 - Mermaid: GitHub에서 바로 렌더링되는 구조도
@@ -50,11 +50,9 @@ flowchart TD
 - Python/YAML: 그래프 생성 및 benchmark 설정 기록
 - 짧은 대표 MP4: Task 4 failure evidence
 
-### Git LFS 또는 Release에 두는 것
+### Git LFS / Release
 
 - 전체 500 episode MP4
 - 전체 trajectory NPZ
 - 장기적으로 늘어날 multi-seed 결과
 - model weight와 LIBERO 원본 데이터셋
-
-GitHub는 큰 파일을 일반 Git에 넣는 방식보다 Git LFS를 사용하도록 안내하며, 50 MiB를 넘는 일반 파일에는 경고가 표시된다. 이 benchmark의 문서와 PNG는 일반 Git에 두고, 영상/trajectory는 LFS 또는 Release/Zenodo로 분리하는 구성이 적절하다.
