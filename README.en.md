@@ -15,7 +15,7 @@ The repository contains the benchmark configuration, task-wise results, analysis
 - Overall success rate: **84.4%** (422/500)
 - Lowest task success rate: **Task 4, 68%**
 - Highest task success rate: **Task 0, 98%**
-- Failure termination: **78 timeouts at 220 policy steps**
+- Failure termination: **78 timeouts at 220 policy steps (Based on the final termination status in the log; actual causes include object collisions, overlapping, or stalled movement.)**
 - Evaluation seed: **7**
 
 ![Official and current result](figures/official_vs_current.png)
